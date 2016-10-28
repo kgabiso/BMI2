@@ -1,0 +1,23 @@
+<resources >
+    <string name="app_name">BMI Calculator</string>
+    <string name="your_bmi_unknown">Your BMI unknown</string>
+    <string name="UnderWeight">Being underweight can cause a poor nutritional status, which increases the risk of infection. Speak to your doctor about any sudden unexplained weight loss. A well-balanced high-energy eating plan is essential to improve nutrient intake and support healthy weight gain."\n""\u25CF" Plan your meals around the carbohydrates, protein and fat is the first step to ensuring a healthy, balanced eating plan."\n""\u25CF" Fruit and vegetables are excellent sources of vitamins, minerals and other protective substances in plants. A minimum of five servings of fruits and vegetables should be included in your diet every day."\n""\u25CF" Eat small nutritious meals or snacks every two hours. Include plenty of fruit-juice, vegetable soups and yoghurt as these are easy to digest. Meal replacements are an easy, quick way to obtain nutrients and can be used instead of a meal or as a snack.</string>
+    <string name="HealthyWeight">Congratulations! Following a healthy diet improves your energy levels, helps you reach an ideal body weight, manages medical conditions and prevent diseases, such as heart disease, cancer and diabetes later in life. So eating well is a worth-while investment! "\n""\u25CF" The great news is that there are no ‘good’ or ‘bad’ foods, which means that healthy eating doesn’t need to be boring or bland. All foods can be enjoyed as part of a healthy diet, if we apply three key elements: balance, variety and moderation."\n""\u25CF" Eat plenty of vegetables and fruit every day. Veggies and fruit are rich in vitamins, minerals, antioxidants and fibre, which are all essential for optimal health."\n""\u25CF" If you drink alcohol, drink sensibly. The current recommendation for alcohol is no more than one standard drink per day for women and no more than two standard drinks per day for men.</string>
+    <string formatted="false" name="OverWieght" >Excess weight has serious health consequences. It increases our risk of developing cardiovascular disease, type 2 diabetes, hypertension, stroke, gallbladder disease, osteoarthritis, sleep apnoea and some types of cancer. But these conditions are significantly improved with a weight loss of as little as 5% to 10% (even if the person is still considerably overweight)."\n""\u25CF" Balancing your diet for weight loss involves planning a variety of foods from each of the following food groups. "\n""\u25CF"Drink lots of water every day. Being just slightly dehydrated may be misinterpreted as hunger. "\n""\u25CF"Be active!</string>
+<string name="ObeseClassify">BMI of over 30kg/m\u00B2\nA BMI of over 30 indicates that you are heavily overweight. Your health may be at risk if you do not lose weight. You are recommended to talk to your Doctor or a dietician for advice."</string>
+<string name="NormalClassify" formatted="false">BMI of 18.5 - 25kg/m\u00B2\nA BMI of 18.5 - 25 indicates that you are at a healthy weight for your height. By maintaining a healthy weight, you lower your risk of developing serious health problems.</string>
+    <string name="UnderWieghtClassify">BMI of less than 18.5kg\u00B2\nA BMI of less than 18.5 indicates that you are underweight, so you may need to put on some weight. You are recommended to ask your Doctor or a dietician for advice.</string>
+    <string name="overWieghtClassify">BMI of 25 - 30kg/m\u00B2\nA BMI of 25 - 30 indicates that you are slightly overweight. You may be advised to lose some weight for health reasons. You are recommended to talk to your Doctor or a dietician for advice.</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="bmi">BMI</string>
+    <string name="height_">Height :</string>
+    <string name="weight_">Weight :</string>
+    <string name="bmi_">BMI :</string>
+    <string name="Title_understanding_your_bmi">Understanding your BMI</string>
+    <string name="under_weight">Under Weight</string>
+    <string name="healthy_weight">Healthy Weight</string>
+    <string name="over_weight_and_obese">Over Weight and Obese</string>
+    <string name="title_bmi_calculator">BMI Calculator</string>
+</resources>
+
